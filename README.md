@@ -25,14 +25,14 @@ OpenCV를 활용한 이미지 전처리 및 시각화 수행
 ---
 
 ## 폴더 구조
-
+<pre>
 vision_ai_week1/
 │
 ├── raw_sushi_samples/         # 스시 원본 이미지 저장 폴더
 ├── red_filtered_samples/      # 빨간색 필터링 결과 저장 폴더
 ├── vision_ai_week1.py         # 전체 실행 Python 스크립트
 └── README.md                  # 현재 문서
-
+</pre>
 
 ---
 
